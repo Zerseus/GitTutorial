@@ -6,3 +6,5 @@ bug2 fix
 github
 
 change 1: change by teammate to test for rebase with conflict
+
+change 2: change by teammate for CR2 on remote master
